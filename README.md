@@ -1,5 +1,5 @@
 # IronSocializr
-This project was developed by [Sebastian Mottschall](https://github.com/Mottschi) and [Emmanuelle Sellin](https://github.com/avengingtooth) within one week during module 2 of the [Ironhack](https://www.ironhack.com/fr/en) web development bootcamp
+This project was developed by [Sebastian Mottschall](https://github.com/Mottschi) and [Emmanuelle Sellin](https://github.com/avengingtooth) within one week during module 2 of the [Ironhack](https://www.ironhack.com/fr/en) web development bootcamp.
 
 ## Features
   
